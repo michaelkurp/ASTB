@@ -120,7 +120,7 @@ function startMenu() {
   strokeWeight(3);
   fill('#e4ac00');
   textSize(45);
-  text("Jantzen and Mike's ASTB trainer... 'as real as it gets!'", windowWidth / 2 - 615, 135)
+  text("Jantzen and Mike's ASTB trainer... 'as real as it gets!'", windowWidth / 2 - 615, 100)
 
 
   if (mouseX > windowWidth / 2 - 100 && mouseX < windowWidth / 2 + 100) {
